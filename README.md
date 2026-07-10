@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29880592/README.md)
+[README (1).md](https://github.com/user-attachments/files/29880897/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Neil%20Sharma&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=52&descSize=18" width="100%"/>
@@ -16,7 +16,7 @@
 <br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/neilsharma"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/neilsharma999/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:neilsharma0002@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/neilsharma999"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -269,7 +269,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-neilsharma0002@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilsharma0002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neilsharma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neilsharma999/)
 [![GitHub](https://img.shields.io/badge/-GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neilsharma999)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
